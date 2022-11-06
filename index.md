@@ -1,4 +1,4 @@
-# Virtual Campur Tours
+# Virtual Campus Tours
 
 ## Table of contents
 
