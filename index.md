@@ -11,7 +11,7 @@ The University of Hawaii at Manoa (UHM) has undergraduate and graduate degree pr
 
 As of Fall 2022, UHM only has a YouTube video that acts as the virtual campus tour. Since Hawaii is located far away from most other major colleges, prospective students have to make a choice to either visit locally situated colleges, or fly out to UHM to take an in-person tour of our campus. Thus, it would benefit UHM to create a virtual campus tour.
 
-###### Mock-Up Page Ideas
+### Mock-Up Page Ideas
 
 In our application we will be having a landing page, it will look similar to STAR GPS where there will be a “Start New Experience” button along with log-in information so people can fitter what they may be interested in learning about UHM. After creating an account, users will be able to see general information about the university along with major-specific or interest-specific information such as related clubs or ongoing research projects.
 
@@ -19,13 +19,13 @@ To individualize each user’s experience, there will be an “Interests” page
 
 In this project, we are currently planning to make pages for the Computer Science department and in the future we plan to branch out to other programs in the College of Natural Sciences and the other colleges that make up the University of Hawaii campus.
 
-###### Case Ideas
+### Case Ideas
 * User either logs in or takes a general virtual tour of the campus
 * If they take a virtual tour, at the end, the user is prompted to select different interests and create a profile (optional)
 * If the user logs in, they are taken to a my interests page in which they can add or remove interests
 * Admin: Department admins can login and update information about their department’s related interests
 
-###### Beyond the Basics
+### Beyond the Basics
 
 There will also be a system for students to request in-person tours along with a feature to see other information that may be of interest to them such as nearby beaches, accommodations, financial information, scholarships and other student life opportunities. Something else that we would try implementing would be having a tour for current students so they are able to know how to get to their classes (eg. classroom HL 3F). 
 
