@@ -32,3 +32,5 @@ There will also be a system for students to request in-person tours along with a
 ## Team
 
 University of Hawaii at Manoa's Virtual Campus Tour is designed, implemented, and maintained by [Amanda Nitta](https://amandanitta.github.io/), [Derek Nishimura](https://d-nishimura808.github.io/), [Connor Sonoda](https://csonoda.github.io/) and [Keaton Wong](https://keatonwong.github.io/).
+
+As a tream we will adhere to following our [team contract](https://docs.google.com/document/d/1x98_knoxlNvFcmkLITSJN_zsHk5L4bDeD3HOPlUWjmY/edit?usp=sharing)
