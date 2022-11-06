@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Team](#Team)
+* [Team](#team)
 
 ## Overview
 
