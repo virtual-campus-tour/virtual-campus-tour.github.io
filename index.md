@@ -1,4 +1,4 @@
-# Bowfolios
+# Virtual Campur Tours
 
 ## Table of contents
 
