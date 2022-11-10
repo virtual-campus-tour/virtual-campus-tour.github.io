@@ -76,6 +76,10 @@ At the end of the general tour, there will be an explore interest page when they
 
 When choosing the major an individual may be interested in, they will be showed some research that is ongoing by the professors in the department along with the clubs that are considering to pretain to the department. 
 
+<img width="300px" class="rounded float-start pe-4" src="../images-mockup/Optionally-Looking-At-Things.png"> 
+
+If someone does not want to go through the whole tour they will have the option to look at specific parts they are interested in at the University.
+
 ## Team
 
 University of Hawaii at Manoa's Virtual Campus Tour is designed, implemented, and maintained by [Amanda Nitta](https://amandanitta.github.io/), [Derek Nishimura](https://d-nishimura808.github.io/), [Connor Sonoda](https://csonoda.github.io/) and [Keaton Wong](https://keatonwong.github.io/).
