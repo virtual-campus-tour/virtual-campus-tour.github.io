@@ -64,19 +64,19 @@ In specifics, the Issue Driven Project Management can be notes as followed:
 
 The goal of Milestone 1 was to create a set of HTML pages to serve as a mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
 
-<img width="300px" class="rounded float-start pe-4" src="../images-mockup/LandingPage.png"> 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/LandingPage.png"> 
 
 When the user lands on this page, they will be prompted to explore the University of Hawaii at Manoa through a general overall tour, along with the option to explore their interest specifically.
 
-<img width="300px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Interests.png"> 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Interests.png"> 
 
 At the end of the general tour, there will be an explore interest page when they can explore departments and clubs that exist at the University of Hawaii. 
 
-<img width="300px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Specific-Major.png"> 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Specific-Major.png"> 
 
 When choosing the major an individual may be interested in, they will be showed some research that is ongoing by the professors in the department along with the clubs that are considering to pretain to the department. 
 
-<img width="300px" class="rounded float-start pe-4" src="../images-mockup/Optionally-Looking-At-Things.png"> 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/Optionally-Looking-At-Things.png"> 
 
 If someone does not want to go through the whole tour they will have the option to look at specific parts they are interested in at the University.
 
