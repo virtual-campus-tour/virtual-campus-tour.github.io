@@ -64,7 +64,7 @@ In specifics, the Issue Driven Project Management can be notes as followed:
 
 The goal of Milestone 1 was to create a set of HTML pages to serve as a mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
 
-<img width="300px" class="rounded float-start pe-4" src="../images-mockup/LandingPage.png">
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/LandingPage.png">
 
 ## Team
 
