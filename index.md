@@ -80,6 +80,10 @@ When choosing the major an individual may be interested in, they will be showed 
 
 If someone does not want to go through the whole tour they will have the option to look at specific parts they are interested in at the University.
 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/Footer.png"> 
+
+At the bottom of each page there will be a footer for a person to look at specific pages, apply to the University and Book an in-person tour
+
 ## Team
 
 University of Hawaii at Manoa's Virtual Campus Tour is designed, implemented, and maintained by [Amanda Nitta](https://amandanitta.github.io/), [Derek Nishimura](https://d-nishimura808.github.io/), [Connor Sonoda](https://csonoda.github.io/) and [Keaton Wong](https://keatonwong.github.io/).
