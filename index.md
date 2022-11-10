@@ -3,6 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Development History](#development-history)
 * [Team](#team)
 
 ## Overview
@@ -28,6 +29,40 @@ In this project, we are currently planning to make pages for the Computer Scienc
 ### Beyond the Basics
 
 There will also be a system for students to request in-person tours along with a feature to see other information that may be of interest to them such as nearby beaches, accommodations, financial information, scholarships and other student life opportunities. Something else that we would try implementing would be having a tour for current students so they are able to know how to get to their classes (eg. classroom HL 3F). 
+
+## User Guide
+
+Coming soon! 
+
+## Community Feedback 
+
+Coming soon!
+
+## Developer Guide 
+
+Coming soon! 
+
+## Development History 
+
+The development process was based on the Issue Driven Project Management practices for our Virtual Campus Tour 
+
+### Issue Driven Project Management 
+
+Issue Driven management is based on breaking the overall goal into subproblems to be accomplished within shorter time periods. As a team we value collaboration so to ensure we create the best quality project although there were tasks specified, we always seek constructive feedback.
+
+In specifics, the Issue Driven Project Management can be notes as followed: 
+
+* There are several sequences of milestones
+* Each Milestone has a set of tasks that are described as GitHub Issues, and is assigned to a single developer to complete. ( However, in our approach we value communication so although one person is assigned the tasks we all contribute to providing feedback before the issue is closed) 
+* Tasks consists of work that can be completed in 2-4 days. 
+* The work for each task is accomplished within a git branch named with "issue-XX", where XX is replaced by the issue 
+*  When a task is complete, its corresponding issue is closed and its corresponding git branch is merged to master upon review 
+*  The state of each tasks such as todo, in progress, done is managed by the GitHub Project Board.
+
+
+### Milestone 1: Mockup development
+
+The goal of Milestone 1 was to create a set of HTML pages to serve as a mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
 
 ## Team
 
