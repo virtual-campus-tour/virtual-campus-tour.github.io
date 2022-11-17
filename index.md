@@ -95,6 +95,10 @@ When choosing the major an individual may be interested in, they will be showed 
 
 If someone does not want to go through the whole tour they will have the option to look at specific parts they are interested in at the University.
 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/post-building-example.png"> 
+
+For each building there will be a page to describe what departments/ types of classes are hosted in each building. Above is an example for the Pacific Ocean Science Technology (POST) Building.
+
 <img width="700px" class="rounded float-start pe-4" src="../images-mockup/Footer.png"> 
 
 At the bottom of each page there will be a footer for a person to look at specific pages, apply to the University and Book an in-person tour
