@@ -73,14 +73,17 @@ In this milestone there were 2 goals:
 (2) Create a landing page and start to gather information for later tasks
 
 For our first goal we were able to create a landing page with a footer and navbar that we had also made mock-ups for.
+
 <img width="700px" class="rounded float-start pe-4" src="../images-mockup/landing-page-coded.png">
 
 We also had generated three other pages: 
 
 The login page:
+
 <img width="700px" class="rounded float-start pe-4" src="../images-mockup/login.png">
 
 The Sign up page:
+
 <img width="700px" class="rounded float-start pe-4" src="../images-mockup/sign-out.png">
 
 The goal of Milestone 1 was to create mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
