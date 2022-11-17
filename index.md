@@ -84,6 +84,9 @@ The login page:
 
 The Sign up page:
 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/sign-up.png">
+
+The sign out page
 <img width="700px" class="rounded float-start pe-4" src="../images-mockup/sign-out.png">
 
 The goal of Milestone 1 was to create mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
