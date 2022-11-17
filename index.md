@@ -1,5 +1,7 @@
 # Virtual Campus Tours
 
+This project is being updated and maintained through the GitHub repository [Virtual Campus Tours](https://github.com/virtual-campus-tour). 
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -44,6 +46,8 @@ Coming soon!
 
 ## Development History 
 
+The deployed project can be viewed at our [Virtual Campus Tours website link](http://146.190.36.48)
+
 The development process was based on the Issue Driven Project Management practices for our Virtual Campus Tour 
 
 ### Issue Driven Project Management 
@@ -62,7 +66,16 @@ In specifics, the Issue Driven Project Management can be notes as followed:
 
 ### Milestone 1: Mockup development
 
-The goal of Milestone 1 was to create a set of HTML pages to serve as a mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
+In this milestone there were 2 goals:
+(1) To create a landing page
+(2) Create a landing page and start to gather information for later tasks
+
+For our first goal we were able to create a landing page with a footer and navbar that we had also made mock-ups for.
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/landing-page-coded.png">
+
+
+
+The goal of Milestone 1 was to create mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
 
 <img width="700px" class="rounded float-start pe-4" src="../images-mockup/LandingPage.png"> 
 
