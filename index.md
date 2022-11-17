@@ -66,6 +66,8 @@ In specifics, the Issue Driven Project Management can be notes as followed:
 
 ### Milestone 1: Mockup development
 
+To manage our Milestone we had used GitHub projects. [Attached is our Milestone 1 Project Board](https://github.com/orgs/virtual-campus-tour/projects/1/views/1)
+
 In this milestone there were 2 goals:
 (1) To create a landing page
 (2) Create a landing page and start to gather information for later tasks
@@ -96,6 +98,10 @@ If someone does not want to go through the whole tour they will have the option 
 <img width="700px" class="rounded float-start pe-4" src="../images-mockup/Footer.png"> 
 
 At the bottom of each page there will be a footer for a person to look at specific pages, apply to the University and Book an in-person tour
+
+### Milestone 2: Create Functionality
+
+To manage our Milestone we continued to use GitHub projects. [Attached is our Milestone 2 Project Board](https://github.com/orgs/virtual-campus-tour/projects/2)
 
 ## Team
 
