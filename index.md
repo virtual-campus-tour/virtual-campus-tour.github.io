@@ -119,6 +119,16 @@ At the bottom of each page there will be a footer for a person to look at specif
 
 To manage our Milestone we continued to use GitHub projects. [Our Milestone 2 Project Board](https://github.com/orgs/virtual-campus-tour/projects/2)
 
+Additional MockUps completed:
+
+First page of tour:
+
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/general.png"> 
+
+Page that describes dorms
+
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/dorms.png"> 
+
 ## Team
 
 University of Hawaii at Manoa's Virtual Campus Tour is designed, implemented, and maintained by [Amanda Nitta](https://amandanitta.github.io/), [Derek Nishimura](https://d-nishimura808.github.io/), [Connor Sonoda](https://csonoda.github.io/) and [Keaton Wong](https://keatonwong.github.io/).
