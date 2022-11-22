@@ -127,7 +127,10 @@ First page of tour:
 
 Page that describes dorms
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/dorms.png"> 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/signout.png"> 
+
+Sign out Mock-Up
+
 
 ## Team
 
