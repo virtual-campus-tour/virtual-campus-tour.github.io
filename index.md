@@ -50,7 +50,7 @@ First, [install Meteor](https://www.meteor.com/developers/install)
 
 Second, visit the [Virtual Campus Tour Github Repository](https://github.com/virtual-campus-tour), and click the "Code" button and choose "Open with GitHub Desktop". Alternatively, the sources can be downloaded as a zip file; or a fork of a repo. Doing either task will lead to a copy of the repository on your local computer.
 
-Third, cd cd into the virtual-campus-tour/app directory and install the appropriate libraries with: 
+Third, cd into the virtual-campus-tour/app directory and install the appropriate libraries with: 
 
 ```
 $ meteor npm install
@@ -61,7 +61,9 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
-If there are no issues/ errors/ the system works, the applications hould locally be available at [http://localhost:3000](http://localhost:3000) 
+If there are no issues/ errors/ the system works, the applications hould locally be available at [http://localhost:3000](http://localhost:3000)
+
+To make edits/ changes, please feel free to change the appropriate files, and the webpage at the local host should automatically update.
 
 ## Development History 
 
