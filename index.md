@@ -12,7 +12,7 @@ This project is being updated and maintained through the GitHub repository [Virt
 
 The University of Hawaii at Manoa (UHM) has undergraduate and graduate degree programs. There are over 13,000 students who apply to attend the university each year, composed of students who are based on Oahu - where the university is located - along with outer island residents and mainland/international students. These students want to determine whether UHM is the best fit for their college experience and the way they do that is by visiting the campus in-person.
 
-As of Fall 2022, UHM only has a YouTube video that acts as the virtual campus tour. Since Hawaii is located far away from most other major colleges, prospective students have to make a choice to either visit locally situated colleges, or fly out to UHM to take an in-person tour of our campus. Thus, it would benefit UHM to create a virtual campus tour.
+As of Fall 2022, UHM only has a YouTube video and a third party service that highlights buildings on campus that acts as the virtual campus tour. Since Hawaii is located far away from most other major colleges, prospective students have to make a choice to either visit locally situated colleges, or fly out to UHM to take an in-person tour of our campus. Thus, it would benefit UHM to create a virtual campus tour that provides more information about the college experience at UHM.
 
 ### Mock-Up Page Ideas
 
