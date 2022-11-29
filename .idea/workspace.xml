@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1699e68-75e6-4947-a117-3a27e41cb025" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images-mockup/department.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/dorming-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/dorming-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/general-page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/landing.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -88,7 +88,7 @@ To make edits/ changes, please feel free to change the appropriate files, and th
 
 ## Development History 
 
-The deployed project can be viewed at our [Virtual Campus Tours website link](http://146.190.36.48)
+The deployed project can be viewed at our [Virtual Campus Tours website link](https://uh-virtual-campus-tour.xyz/)
 
 The development process was based on the Issue Driven Project Management practices for our Virtual Campus Tour 
 
