@@ -34,7 +34,9 @@ There will also be a system for students to request in-person tours along with a
 
 ## User Guide
 
-Coming soon! 
+Upon visiting the site, the user is presented at the top level with a place to start their tour
+
+
 
 ## Community Feedback 
 
