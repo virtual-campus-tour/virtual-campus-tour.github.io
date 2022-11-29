@@ -36,6 +36,25 @@ There will also be a system for students to request in-person tours along with a
 
 Upon visiting the site, the user is presented at the top level with a place to start their tour
 
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/landing.png">
+
+To start the tour an individual would press the start virtual tour button. This then will take the individual to the general page. 
+
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/general-page.png">
+
+Following the general page, then the individual can press the Next Page button to take them to the dorming page. At this page, the individual can see the different dorms that are available.
+
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/dorming-1.png">
+
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/dorming-2.png">
+
+The user can also access the department page that has access to the current research and clubs available to computer science majors.
+
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/department.png">
+
+When the user logs in, they will have access to a my interest page that will be determined by their majors that are selected of interest. 
+
+<img width="700px" class="rounded float-start pe-4" src="../images-mockup/myInterest.png">
 
 
 ## Community Feedback 
