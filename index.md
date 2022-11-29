@@ -175,6 +175,9 @@ Sign out Mock-Up
 
 <img width="700px" class="rounded float-start pe-4" src="../images-mockup/signout.png">
 
+### Milestone 3
+To manage our Milestone we continued to use GitHub projects. [Our Milestone 3 Project Board](https://github.com/orgs/virtual-campus-tour/projects/3)
+
 ## Team
 
 University of Hawaii at Manoa's Virtual Campus Tour is designed, implemented, and maintained by [Amanda Nitta](https://amandanitta.github.io/), [Derek Nishimura](https://d-nishimura808.github.io/), [Connor Sonoda](https://csonoda.github.io/) and [Keaton Wong](https://keatonwong.github.io/).
