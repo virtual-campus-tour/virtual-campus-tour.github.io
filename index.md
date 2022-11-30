@@ -6,6 +6,8 @@ This project is being updated and maintained through the GitHub repository [Virt
 
 * [Overview](#overview)
 * [Development History](#development-history)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Team](#team)
 
 ## Overview
