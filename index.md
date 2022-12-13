@@ -107,7 +107,7 @@ Then the user can see the Pacific Ocean Science and Technology (POST) Building. 
 
 Then  upon viewing the building, it talks about the freshman requirements.
 
-<img width="400px" class="rounded float-start pe-4" src="../images-mockup/admissions.png">
+<img width="400px" class="rounded float-start pe-4" src="../images-mockup/admission.png">
 
 Then for the last page of the tour, there are scholarships that UHM offers to its students. 
 
