@@ -199,6 +199,12 @@ The "Dorming Tour" page needs a page header/title. Remember, this website will b
 I'm worried that since you're linking to external sites (e.g., housing, dining, etc.), the user would lose track of where they are on the tour. Maybe keep track of their location using cookies so they can pick up from where they left off?      
 Suddenly moving from Athletics to ICS Club/Research feels out of place."
 
+### Computer Science Undergraduate Advisor
+
+#### Kenny Quibilan
+
+"Also, great job in the virtual tutor so far! I think my only edit for now since the correct grammar and etc for the Hawaiian words. For example, let’s write Mānoa with the accent mark above the 'a'."
+
 ### IT Department
 
 #### Mitchell Ochi
