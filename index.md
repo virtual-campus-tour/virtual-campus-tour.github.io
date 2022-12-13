@@ -195,38 +195,39 @@ We also had generated three other pages:
 
 The login page:
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/login.png">
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/login.png">
 
 The Sign up page:
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/sign-up.png">
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/sign-up.png">
 
 The sign out page
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/sign-out.png">
+
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/sign-out.png">
 
 The goal of Milestone 1 was to create mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/LandingPage.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/LandingPage.png"> 
 
 When the user lands on this page, they will be prompted to explore the University of Hawaii at Manoa through a general overall tour, along with the option to explore their interest specifically.
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Interests.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Interests.png"> 
 
 At the end of the general tour, there will be an explore interest page when they can explore departments and clubs that exist at the University of Hawaii. 
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Specific-Major.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Specific-Major.png"> 
 
 When choosing the major an individual may be interested in, they will be showed some research that is ongoing by the professors in the department along with the clubs that are considering to pretain to the department. 
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/Optionally-Looking-At-Things.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/Optionally-Looking-At-Things.png"> 
 
 If someone does not want to go through the whole tour they will have the option to look at specific parts they are interested in at the University.
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/post-building-example.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/post-building-example.png"> 
 
 For each building there will be a page to describe what departments/ types of classes are hosted in each building. Above is an example for the Pacific Ocean Science Technology (POST) Building.
 
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/Footer.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../images-mockup/Footer.png"> 
 
 At the bottom of each page there will be a footer for a person to look at specific pages, apply to the University and Book an in-person tour
 
