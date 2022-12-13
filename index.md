@@ -300,7 +300,7 @@ To manage our Milestone we had used GitHub projects. [Attached is our Milestone 
 
 To manage our Milestone we continued to use GitHub projects. [Our Milestone 2 Project Board](https://github.com/orgs/virtual-campus-tour/projects/2)
 
-### Milestone 3
+### Milestone 3: Improve Functionality
 To manage our Milestone we continued to use GitHub projects. [Our Milestone 3 Project Board](https://github.com/orgs/virtual-campus-tour/projects/3)
 
 ## Team
