@@ -183,71 +183,9 @@ In specifics, the Issue Driven Project Management can be notes as followed:
 
 To manage our Milestone we had used GitHub projects. [Attached is our Milestone 1 Project Board](https://github.com/orgs/virtual-campus-tour/projects/1/views/1)
 
-In this milestone there were 2 goals:
-(1) To create a landing page
-(2) Create a landing page and start to gather information for later tasks
-
-For our first goal we were able to create a landing page with a footer and navbar that we had also made mock-ups for.
-
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/landing-page-coded.png">
-
-We also had generated three other pages: 
-
-The login page:
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/login.png">
-
-The Sign up page:
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/sign-up.png">
-
-The sign out page
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/sign-out.png">
-
-The goal of Milestone 1 was to create mockup of pages for the system. Along with gathering of information so we are able to be prepared for future tasks.
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/LandingPage.png"> 
-
-When the user lands on this page, they will be prompted to explore the University of Hawaii at Manoa through a general overall tour, along with the option to explore their interest specifically.
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Interests.png"> 
-
-At the end of the general tour, there will be an explore interest page when they can explore departments and clubs that exist at the University of Hawaii. 
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/Exploring-Specific-Major.png"> 
-
-When choosing the major an individual may be interested in, they will be showed some research that is ongoing by the professors in the department along with the clubs that are considering to pretain to the department. 
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/Optionally-Looking-At-Things.png"> 
-
-If someone does not want to go through the whole tour they will have the option to look at specific parts they are interested in at the University.
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/post-building-example.png"> 
-
-For each building there will be a page to describe what departments/ types of classes are hosted in each building. Above is an example for the Pacific Ocean Science Technology (POST) Building.
-
-<img width="200px" class="rounded float-start pe-4" src="../images-mockup/Footer.png"> 
-
-At the bottom of each page there will be a footer for a person to look at specific pages, apply to the University and Book an in-person tour
-
 ### Milestone 2: Create Functionality
 
 To manage our Milestone we continued to use GitHub projects. [Our Milestone 2 Project Board](https://github.com/orgs/virtual-campus-tour/projects/2)
-
-Additional MockUps completed:
-
-First page of tour:
-
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/general.png"> 
-
-Page that describes dorms
-
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/dorms.png"> 
-
-Sign out Mock-Up
-
-<img width="700px" class="rounded float-start pe-4" src="../images-mockup/signout.png">
 
 ### Milestone 3
 To manage our Milestone we continued to use GitHub projects. [Our Milestone 3 Project Board](https://github.com/orgs/virtual-campus-tour/projects/3)
