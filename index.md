@@ -132,9 +132,121 @@ If logged into an admin account, the person add or edit club information, and se
 
 ## Community Feedback 
 
-Coming soon!
+### Prospective Students
 
-## Developer Guide 
+#### Kainalu D. 
+"I thought it was good, it presented a lot of good information, and it was easy to navigate"
+
+#### Brayden N. 
+"Its actually pretty good  from stating the different buildings, classrooms, and basically all around campus, it looks amazing"
+
+## Non Computer Science Alumni 
+
+#### Arnold
+"An impressive starting base for this project and looking forward to the completed version"
+
+### Current UHM students Non Computer Science
+
+#### Minh T. 
+"Overall the look of the virtual campus is nice and easy to look at. The site was easy to navigate because there were buttons telling you clearly how to continue. My concern that I have with the campus tour is the dorming section. Johnson Hall, gateway hall, and frear hall have pictures of those designated halls which is great, but it doesn’t make sense for those halls to have a picture of hale aloha as well when hale aloha aren’t a part of the other halls."
+
+#### Eli N. 
+"I think the virtual tour looks really nice, everything looks pretty clean and the views from the interior of the dorms look pretty good"
+
+### Current UHM students Computer Science
+
+#### Justin L.
+"Overall the project effectively conveys the main things a prospective student would want. However, there are minor UI changes that seem off such as
+
+- For the Dorming page, the Hale Aloha image does not need to be in the image slider for the Frear Hall and Gateway House
+- The sizing for the dining options is uneven
+- Images resizing to be consistent for the Dorming page"
+
+### Computer Science Faculty
+
+#### Dr. Peter Washington 
+"Looks good! Great work.
+
+Here are some comments for refinements:
+Some instructions about how to navigate would be useful (just a quick note about clicking "Next page").
+Perhaps the "Next page" buttons should be a different color than the green buttons. Right now, they are too difficult to see and I almost didn't notice them. The buttons could also be at the top and bottom of the page in case someone is not interested in a particular page.
+When clicking on "Learn More", it'd be useful to open the link in a new tab so that the other resource listings are not lost after going to just one. (just add target="_blank" to the a tag).
+There's other research in the ICS department besides what's listed. Maybe emphasizing this and just listing those two that are currently listed as examples.
+For mobile compatibility, a simple solution is to look into Twitter Bootstrap."
+
+#### Dr. Peter Sadowski
+"This is cool!
+
+One big advantage that UH Manoa students have over other universities is that they have opportunities to get involved in research (UH Manoa is the only R1 university in the state). In the research section, I would emphasize that, "Undergraduate students have the opportunity to get paid for research over the summer and during the school year through programs like UROP and others."
+
+#### Dr. Anthony Peruma
+"IMO, I think your team needs to narrow down its scope. Instead of targeting the University as a whole, target individual departments or colleges. Think of building this a "Department/College Tour". In this way, you can build modules such as "Lab Tour", "Classroom Tour", "Student Hangout Tour", "Club Tour", etc. These modules are common to all departments, so you build them as reusable components and deploy multiple instances of them. Convincing a department to adopt this site would be easier than the University as each department usually handles/maintains its website (like Scott, who handles the ICS website).
+
+I have two main concerns:
+
+1) Content Authoring -- who is responsible for creating and editing content on the site? Most likely, it will be a "business user". In other words, a non-programmer. Hence, you cannot assume that the content author knows HTML/CSS/js/react, etc. Ideally, this site needs to be built using a CMS system (e.g., WordPress, Drupal, Joomla, etc.) or something like Django to incorporate the CMS features.
+
+You may have a slick and feature-rich front-end, but if content authoring requires technical expertise, adoption of the site will be difficult as the business team will need to invest in technical resources.
+
+2) Responsive Design -- since this will be a publicly accessible website, it must render correctly on mobile devices (tablets/phones).
+
+Other Feedback:
+
+In your project write-up, you need to motivate the need for this website. Such as, what are the shortcomings in the existing UH website that your site aims to address?
+The massive pie chart and undergrad stats looks out of place. Maybe have them as a popup? Also, why limit to undergrad stats?
+The "Dorming Tour" page needs a page header/title. Remember, this website will be primarily used by prospective students (and parents); you cannot assume they know what these buildings are.
+I'm worried that since you're linking to external sites (e.g., housing, dining, etc.), the user would lose track of where they are on the tour. Maybe keep track of their location using cookies so they can pick up from where they left off?      
+Suddenly moving from Athletics to ICS Club/Research feels out of place."
+
+### IT Department
+
+#### Mitchell Ochi
+"Pictures in the carousel on some pages should all be the same size as it changes the layout of the page when the carousel cycles through images.
+Along with the navigation buttons at the bottom of the page when going through the virtual tour, there should be something that tells the users where they are in the tour and gives them the ability to jump to specific parts of interest.
+UX improvements
+Location of the "Book a tour" menu item in the top navigation bar. The call to action should generally be in a visible, prominent area of the website. If one purpose of this website is to encourage prospective students to book an in-person tour, I think it would be helpful to move this from a dropdown menu item to a main menu item instead (perhaps after the "ICS Department" navigation menu item).
+Linking to related UH content when relevant on each page. This would make information regarding UH more accessible to prospective students. Examples:
+On this page: https://uh-virtual-campus-tour.xyz/athletics, make the headings of each sport link to the official UH page associated with the sport. For example, the "Basketball" heading could link to the UH Men's Basketball page page: https://hawaiiathletics.com/sports/mens-basketball.
+Linking to additional information for each study space on this page: https://uh-virtual-campus-tour.xyz/StudyAreasTour, such as linking to the Library site within the Hamilton Library section: https://manoa.hawaii.edu/library/
+In the "My Interest" section (https://uh-virtual-campus-tour.xyz/my-interests) - it would be a little more intuitive to allow users to edit their interests directly on that page rather than having to navigate to <user@email> > Edit User (https://uh-virtual-campus-tour.xyz/edit/<user>) and manually unchecking the interests there.
+UI improvements
+Make the height consistent for card items within the same row. Noticed this especially on this page: https://uh-virtual-campus-tour.xyz/dining. Making the height consistent would not only make it more aesthetically pleasing, but also allow users to scan through the structure of the page more easily.
+Additionally, there is inconsistent spacing between some of the card items, such as in-between the "Lasoon" and "Panda Express" cards.
+Increase spacing between distinct elements. Adding spacing will help break the pages up into more easily readable/scannable sections of text.  
+As an example, on this page: https://uh-virtual-campus-tour.xyz/AthleticsTour, adding spacing above the different headers (ex. "CO-ED SPORTS", "MEN SPORTS", etc.) would help users differentiate the categories of sports a bit better.
+Maintain consistent formatting/structure for each page. This will help users easily pick out general information (such as title, subsections, etc.) and make the site feel more professional.  Here are some suggestions for improving consistency among the different pages:
+Maintain consistent container padding for each page. These pages have different container padding than the other pages on the site:
+https://uh-virtual-campus-tour.xyz/CampusCenter
+https://uh-virtual-campus-tour.xyz/StudyAreasTour
+https://uh-virtual-campus-tour.xyz/general
+Maintain consistent headers for each page. Noticed that the pages are inconsistent in the location of the main header for each page (ex. header above feature image: https://uh-virtual-campus-tour.xyz/ClassroomTour vs. header below feature image: https://uh-virtual-campus-tour.xyz/CampusCenterTour), and others do not have a main header at all (ex. https://uh-virtual-campus-tour.xyz/DormingTour). To improve this, have a main header for each page displayed in a consistent location, such as at the top of the page.
+Alignment of "PREV" and "NEXT" buttons within the tour pages. Recommend aligning the "Previous Page" button to the first column of their grid and the "Next Page" button to the last column of their grid. Having the buttons slightly off-set from the margins of the body container is a little jarring visually.
+In general, when possible, it's a good practice to align elements to the beginning or end of main/common elements within the page. This will help the visual structure of the page.
+Accessibility - Here are a few things to consider in terms of accessibility:
+Heading hierarchy. Check that the headings are structured from (H1 > H2 > H3 > .. etc.). For example, on this page (https://uh-virtual-campus-tour.xyz/warrior-recreation-center), the headings for the sections use "H3" despite being second-level headings (should be "H2" instead). If needed, the headings can be styled to have a different font-weight / font-size. This is an important consideration for screen reader users as they use these headings to determine the overall structure of the page, skipping heading levels can be confusing to screen reader users. They can view this page for more information on the importance of adhering to proper heading hierarchy: https://www.w3.org/WAI/tutorials/page-structure/headings/
+Button color contrast requirements. As an example, on this page, https://uh-virtual-campus-tour.xyz/DormingTour, when navigating to the second item of the "Frear Hall" carousel, the carousel button control is not visible against the background of the image. It may help to use a darker color for the carousel button control and add a semi-opaque background behind the carousel button control to increase its visibility. See this page for more information: https://www.w3.org/WAI/tutorials/carousels/styling/
+Indicators when buttons/interactive elements are in focus. For example, on this page: https://uh-virtual-campus-tour.xyz/DormingTour, the buttons do not have an outline or some indicator to show they are in focus when users tab through the page with a keyboard. Without indicators to show what is in focus, it may be difficult for keyboard users to navigate through the site. They can view more information on this here: https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html
+Alt-text descriptions. Great that all the images I looked through had alt-text labels. However, there are some instances where alt-text is not needed and the element should have a null alt text instead. For example, on this page: https://uh-virtual-campus-tour.xyz/Admission, the images are purely decorative and are not necessary for screen reader users to parse through. See information regarding this here: https://www.w3.org/WAI/tutorials/images/decorative/
+Positive feedback on the site
+I love the idea of the site! Very creative to have a "virtual tour" of UH Manoa.
+Great job on the initial organization of the virtual tour. I felt that the order of each "tour item" was intuitive and flowed well into each other.
+I love that they made their own logo for this project!
+I like that users have the option to select their specific interests. As a stretch goal, this could be used to make the virtual tour more individualized / specific towards their interests."
+
+### Other UH Departments
+
+#### Sandra Fujiyama
+
+"Very Cool! 
+A couple of items of note after taking a quick look:
+On the Dorming page, the scrolling images are a nice touch, but don't seem to all scroll to Hale Aloha and move around on the page
+When I saw virtual tour -- I was thinking there would be videos or pictures -- kind of like the links below.  But, understand that this course is about developing a website (not making videos and taking pictures) and perhaps that is what UHM did with the third-party campus tour -- so you can disregard this comment.  
+https://lassonde.utah.edu/tour/
+https://youtu.be/s_nlH87F_gw
+The formatting on some of the pages does not display properly on my computer -- for example, the dining page.
+Otherwise, I like the flow of information and use of pictures.  Also, the formatting of the club page is well done."
+
+## Developer Guide
 
 The following section provides information to those who wish to use the code base as a basis for their own development tasks for Meteor Developers.
 
