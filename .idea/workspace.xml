@@ -2,30 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1699e68-75e6-4947-a117-3a27e41cb025" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images-mockup/POST-building.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/addclub.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/admission.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/athletics-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/athletics-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/campuscenter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/classrooms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/dining-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/dining-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/edituser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/endoftour.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/general-page-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/myinterest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/scholarships.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/studyspaces-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/studyspaces-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-mockup/warriorrec.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images-mockup/department.png" beforeDir="false" afterPath="$PROJECT_DIR$/images-mockup/department.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images-mockup/dorming-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images-mockup/dorming-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images-mockup/dorming-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images-mockup/dorming-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images-mockup/general-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images-mockup/general-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images-mockup/landing.png" beforeDir="false" afterPath="$PROJECT_DIR$/images-mockup/landing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images-mockup/myInterest.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
