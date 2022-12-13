@@ -57,9 +57,9 @@ Upon visiting the site, the user is presented at the top level with a place to s
 
 To start the tour an individual would press the start virtual tour button. This then will take the individual to the general page. 
 
-<img width="400px" class="rounded float-start pe-4" src="../images-mockup/general-page.png">
+<img width="400px" class="rounded float-start pe-4" src="../images-mockup/general-page-1.png">
 
-<img width="400px" class="rounded float-start pe-4" src="../images-mockup/general-page-2.png">
+<img width="400px" class="rounded float-start pe-4" src="../images-mockup/general-page-1.2.png">
 
 Following the general page, then the individual can press the Next Page button to take them to the dorming page. At this page, the individual can see the different dorms that are available.
 
